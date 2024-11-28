@@ -83,6 +83,8 @@ button,
 form input {
     width: 450px;
     margin: 10px;
+    height: 30px;
+    border-radius: 4%;
 }
 
 /*Making this into a grid because it's two dimensional*/
